@@ -1,0 +1,2 @@
+mkdir C:\Users\cloudadmin\Desktop\protest
+Copy-Item -Path "C:\Windows\System32\cmd.exe" -Destination "C:\Users\cloudadmin\Desktop\protest\" -Recurse
